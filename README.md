@@ -1,6 +1,6 @@
 This isn't written to argue with anyone. But simply to try and explain it to anyone that wants to understand why the situation is difficult. It may feel like it's too late to do it but that's okay. This attempts to explain it without being overly technical.
 
-Firstly to explain why it's not easy to just use this kernel exploit with Y2JB or the Japanese lua games and other cheap options. 
+# Firstly to explain why it's not easy to just use this kernel exploit with Y2JB or the Japanese lua games and other cheap options. 
 
 Syscals we can say are system functions that you run to gain an effect and etc.
 The Netctrl kernel exploit requires a syscal to achieve the exploit. The dup syscal is required to trigger and reach the result required to in the end gain control of the system. The applications that are able to make that call are. 
@@ -19,7 +19,7 @@ BD-J is also difficult to work with and a usable one hasn't been available past 
 (Although we can unpatch a BD-J exploit with another jailbreak, this still doesn't solve for needing the very expensive game first if you are on 10.20-12.00.)
 
 
-Secondly to explain the reasons why alternatives aren't a thing and why the game is the only current option:
+# Secondly to explain the reasons why alternatives aren't a thing and why the game is the only current option:
 
 1. Why the game is the only thing available:  
 
