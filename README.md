@@ -36,11 +36,35 @@ He found that the process is restricted as mentioned above same thing that happe
 
 The PS2 emulator could not do the required things to run the kernel exploit and not just NetCtrl but any kernel exploit. He was then caught up to speed by other developers about what Sony had patched after 7.61. 
 
+![-](pics/1.JPG)  
+
+![-](pics/2.JPG)  
+
+![-](pics/3.JPG)  
+
+![-](pics/4.JPG)  
+
 This lead Gezine into working on the JIT exploit. This exploit would allow to run the kernel exploit anyway. And on completion it did.
 
 Upon completion of the JIT exploit Gezine had a thought he shared which lead to a small discussion. 
 He thought of taking a look at the Ps2emu of the other games to see if the JIT exploit would be compatible with them. 
 And he found the thing that wraps up how difficult and how lucky the situation is. 
+
+![-](pics/5.JPG)  
+
+![-](pics/6.JPG)  
+
+![-](pics/7.JPG)  
+
+![-](pics/8.JPG)  
+
+![-](pics/9.JPG)  
+
+![-](pics/10.JPG)  
+
+![-](pics/11.JPG)  
+
+![-](pics/12.JPG)  
 
 Star wars is one of a few games that is vulnerable to the JIT exploit. 
 
