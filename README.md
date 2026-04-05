@@ -36,7 +36,7 @@ He found that the process is restricted as mentioned above same thing that happe
 
 The PS2 emulator could not do the required things to run the kernel exploit and not just NetCtrl but any kernel exploit. He was then caught up to speed by other developers about what Sony had patched after 7.61. 
 
-![-](pics/1.JPG)  
+![-](pics/1.jpg)  
 
 ![-](pics/2.JPG)  
 
