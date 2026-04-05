@@ -21,13 +21,15 @@ BD-J is also difficult to work with and a usable one hasn't been available past 
 
 Secondly to explain the reasons why alternatives aren't a thing and why the game is the only current option:
 
-1. why the game is the only thing available:
+1. Why the game is the only thing available:  
+
 As WebKit and BD-J are already quite difficult. The alternative to them is to look at the PS2 emulator which can call dup the required syscal. This kicks off with the general userland which is Mast1c0re 
 
-2. why okage and other games are not an easy option:
+2. Why okage and other games are not an easy option:   
+
 After firmware 7.61 Sony blocked syscals the PS2 emulator is allowed to run which are required to fully run any kernel exploit and gain control to jailbreak. This is why okage and other similar games are not an option to run this kernel exploit. As you see this is even more restrictive now, and makes things even harder,  and this isn't even the end of how hard it's getting.
 
-3. why it was extremely lucky to get star wars working and why it is the only option:
+3. Why it was extremely lucky to get star wars working and why it is the only option:
 
 After Gezine got the initial userland working for star wars and he then tried getting to work on things related to the remote loader and the kernel exploit. 
 He found that the process is restricted as mentioned above same thing that happened with okage. 
