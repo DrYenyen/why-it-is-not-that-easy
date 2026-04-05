@@ -46,13 +46,13 @@ The PS2 emulator could not do the required things to run the kernel exploit and 
 
 This lead Gezine into working on the JIT exploit. This exploit would allow to run the kernel exploit anyway. And on completion it did.
 
-Upon completion of the JIT exploit Gezine had a thought he shared which lead to a small discussion. 
-He thought of taking a look at the Ps2emu of the other games to see if the JIT exploit would be compatible with them. 
-And he found the thing that wraps up how difficult and how lucky the situation is. 
-
 ![-](pics/5.jpg)  
 
 ![-](pics/6.jpg)  
+
+Upon completion of the JIT exploit Gezine had a thought he shared which lead to a small discussion. 
+He thought of taking a look at the Ps2emu of the other games to see if the JIT exploit would be compatible with them. 
+And he found the thing that wraps up how difficult and how lucky the situation is. 
 
 ![-](pics/7.jpg)  
 
