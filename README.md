@@ -2,8 +2,8 @@ This isn't written to argue with anyone. But simply to try and explain it to any
 
 # Firstly to explain why it's not easy to just use this kernel exploit with Y2JB or the Japanese lua games and other cheap options. 
 
-Syscals we can say are system functions that you run to gain an effect and etc.
-The Netctrl kernel exploit requires a syscal to achieve the exploit. The dup syscal is required to trigger and reach the result required to in the end gain control of the system. The applications that are able to make that call are. 
+Syscalls we can say are system functions that you run to gain an effect and etc.
+The Netctrl kernel exploit requires a syscall to achieve the exploit. The dup syscall is required to trigger and reach the result required to in the end gain control of the system. The applications that are able to make that call are. 
 
 1. WebKit. 
 2. BD-J 
@@ -11,7 +11,7 @@ The Netctrl kernel exploit requires a syscal to achieve the exploit. The dup sys
 
 Although PS Vue can do it too it is a PS4 only userland. And after a whole night of some very talented people trying they could not get PS Vue to work on PS5.
 
-So due to the requirement of specific applications that are able to make the syscal required, the situation is already restrictive.
+So due to the requirement of specific applications that are able to make the syscall required, the situation is already restrictive.
 
 A WebKit exploit hasn't been found in years. 
 
@@ -23,11 +23,11 @@ BD-J is also difficult to work with and a usable one hasn't been available past 
 
 1. Why the game is the only thing available:  
 
-As WebKit and BD-J are already quite difficult. The alternative to them is to look at the PS2 emulator which can call dup the required syscal. This kicks off with the general userland which is Mast1c0re 
+As WebKit and BD-J are already quite difficult. The alternative to them is to look at the PS2 emulator which can call dup the required syscall. This kicks off with the general userland which is Mast1c0re 
 
 2. Why okage and other games are not an easy option:   
 
-After firmware 7.61 Sony blocked syscals the PS2 emulator is allowed to run which are required to fully run any kernel exploit and gain control to jailbreak. This is why okage and other similar games are not an option to run this kernel exploit. As you see this is even more restrictive now, and makes things even harder,  and this isn't even the end of how hard it's getting.
+After firmware 7.61 Sony blocked syscalls the PS2 emulator is allowed to run which are required to fully run any kernel exploit and gain control to jailbreak. This is why okage and other similar games are not an option to run this kernel exploit. As you see this is even more restrictive now, and makes things even harder,  and this isn't even the end of how hard it's getting.
 
 3. Why it was extremely lucky to get star wars working and why it is the only option:
 
